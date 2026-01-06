@@ -1,0 +1,5 @@
+{
+  "name": "FinanSmart AI - Controle Financeiro",
+  "description": "Uma aplicação de gestão financeira de alta performance inspirada nos melhores apps do mercado (Mobills, Organizze), com visualização de dados via Recharts e inteligência artificial Gemini para análise de gastos.",
+  "requestFramePermissions": []
+}
